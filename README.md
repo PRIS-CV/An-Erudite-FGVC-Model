@@ -14,8 +14,9 @@ Code release for “An Erudite Fine-Grained Visual Classification Model" (CVPR 2
 ## Requirements
 
 - python 3.6
-- PyTorch 1.2.0
-- torchvision
+- PyTorch 1.7.1+cu110
+- torchvision  0.8.2+cu110
+- learn2learn 0.1.7
 
 ## Data
 - Download datasets
