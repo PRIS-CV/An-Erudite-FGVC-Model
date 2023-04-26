@@ -47,9 +47,13 @@ Code release for “An Erudite Fine-Grained Visual Classification Model" (CVPR 2
 ## Citation
 If you find this paper useful in your research, please consider citing:
 ```
-
+@InProceedings{Chang2023Erudite,
+  title={An Erudite Fine-Grained Visual Classification Model},
+  author={Chang, Dongliang and Tong, Yujun and Du, Ruoyi and Timothy, Hospedales and Song, Yi-Zhe and Ma, Zhanyu },
+  booktitle = {Computer Vision and Pattern Recognition},
+  year={2023}
+}
 ```
-
 
 ## Contact
 Thanks for your attention!
