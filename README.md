@@ -39,7 +39,7 @@ Code release for “An Erudite Fine-Grained Visual Classification Model" (CVPR 2
 
 
 ## Training
-- `python main.py` (Mix Cars and Flowers)
+- `CUDA_VISIBLE_DEVICES=X python main.py` (Mix Cars and Flowers)
 
 
 
