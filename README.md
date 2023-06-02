@@ -1,5 +1,5 @@
 # An-Erudite-FGVC-Model
-Code release for “An Erudite Fine-Grained Visual Classification Model" (CVPR 2023)
+Code release for “[An Erudite Fine-Grained Visual Classification Model](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_An_Erudite_Fine-Grained_Visual_Classification_Model_CVPR_2023_paper.pdf)" (CVPR 2023)
 
 
 
